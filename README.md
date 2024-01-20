@@ -1,16 +1,35 @@
-### Hi there 👋
+  
 
-<!--
-**Joaozinho-web/Joaozinho-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div align="center"> Olá! Me chamo João Victor </div>
 
-Here are some ideas to get you started:
+- 🏫 Atualmente estou no terceiro semestre de SIS
+- 📘 Estou estudando Html e Css
+- 💼 Estou em busca de um estágio na área
+- 💬 Aprendendo cada dia mais
+- ⚡ Um fato curioso é que entrei de cabeça na área e fiquei completamente apaixonado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div style="display: inline_block"><br>
+  <img height="180em" width="50%" margin="0px"src="https://github-readme-stats.vercel.app/api?username=Joaozinho-web&show_icons=true&theme=dracula">
+
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaozinho-web&layout=compact&theme=dracula"> 
+</div>
+
+
+  
+<div style="display: inline_block" align="center"><br>
+    <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+##
+
+<div> 
+  <a href="https://instagram.com/joaovictormagalhaes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/jaozin5327" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:magalhaesjoaovictor81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joão-victor-magalhães-cunto-100105276" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
